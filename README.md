@@ -1,6 +1,9 @@
 📊 Dashboard Vendas - Loja ABC
 Este projeto apresenta um conjunto de dashboards interativos para análise de vendas, estoque, clientes e desempenho de funcionários da Loja ABC. O objetivo é fornecer uma visão integrada dos principais indicadores de negócio, facilitando a tomada de decisão e o acompanhamento dos resultados.
 
+<img width="1010" height="561" alt="image" src="https://github.com/user-attachments/assets/39901755-04f5-4505-a423-e1452f9a0a03" />
+
+
 🚀 Funcionalidades
 Vendas: acompanhamento das vendas por produto, receita faturada e previsão de receita.
 
@@ -47,3 +50,4 @@ Monitorar o cumprimento das metas de vendas por funcionário.
 Avaliar a eficiência do estoque.
 
 Entender o perfil e comportamento dos clientes.
+
