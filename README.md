@@ -14,13 +14,22 @@ Clientes: análise de compras por cliente, distribuição geográfica por estado
 Funcionários: monitoramento da performance individual dos vendedores em relação às metas estabelecidas.
 
 📂 Estrutura do Projeto
+
 Vendas → Painel principal com resumo de vendas, faturamento e previsão.
+
+<img width="1011" height="559" alt="image" src="https://github.com/user-attachments/assets/330791a6-2c2f-48ed-aadf-4fe9fe57b689" />
 
 Estoque→ Tabela de estoque inicial/final e percentual vendido.
 
+<img width="1008" height="561" alt="image" src="https://github.com/user-attachments/assets/b85d3d34-6812-45e3-b938-3cfaf0e0fd17" />
+
 Funcionarios → Comparativo de desempenho dos vendedores com metas.
 
+<img width="1000" height="568" alt="image" src="https://github.com/user-attachments/assets/82917201-dee0-42dd-8e42-a0515226e650" />
+
 Clientes → Compras por cliente, estados e produtos.
+
+<img width="1014" height="561" alt="image" src="https://github.com/user-attachments/assets/f586f9cb-2e5a-46c3-a96f-fd3fe6069df5" />
 
 📈 Principais Indicadores
 Receita Faturada: R$ 295.746,56
